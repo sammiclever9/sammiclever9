@@ -18,4 +18,4 @@ Analyzed reported health-based drinking water violations across eight Great Lake
 
 Among 11,202 systems with positive reported populations, 342 were flagged (3.05%). Reported-zero populations are documented separately, with 0 of 17 flagged.
 
-[Explore the project](https://github.com/sammiclever9/drinking-water-compliance) · [Download v1.1.0](https://github.com/sammiclever9/drinking-water-compliance/releases/tag/v1.1.0)
+[Explore the project](https://github.com/sammiclever9/drinking-water-compliance) · [Download v1.2.0](https://github.com/sammiclever9/drinking-water-compliance/releases/tag/v1.2.0)
