@@ -14,9 +14,8 @@ and explain the findings to people making decisions.
 
 ### Drinking Water Compliance
 
-Analyzed reported health-based violations among active community water systems in eight Great Lakes states using R and Power BI. The project includes data audits, state-adjusted logistic regression, confidence intervals, and an interactive report.
+Analyzed reported health-based drinking water violations across eight Great Lakes states using R, DuckDB SQL, and Power BI. Includes statistical modeling, confidence intervals, reproducible SQL summaries, and automated R-versus-SQL consistency checks.
 
-Among 11,202 systems with positive reported populations, 342 were flagged (3.05%). Seventeen systems reporting zero people served are documented separately, with 0 flagged.
+Among 11,202 systems with positive reported populations, 342 were flagged (3.05%). Reported-zero populations are documented separately, with 0 of 17 flagged.
 
-[Explore the project](https://github.com/sammiclever9/drinking-water-compliance) · [Download v1.0.0](https://github.com/sammiclever9/drinking-water-compliance/releases/tag/v1.0.0)
-
+[Explore the project](https://github.com/sammiclever9/drinking-water-compliance) · [Download v1.1.0](https://github.com/sammiclever9/drinking-water-compliance/releases/tag/v1.1.0)
