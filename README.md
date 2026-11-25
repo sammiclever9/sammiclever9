@@ -37,4 +37,4 @@ validation.
 Includes individual 95% confidence intervals, Holm-adjusted
 tests within each outcome, and an editable Power BI dashboard.
 
-[Explore the project](https://github.com/sammiclever9/email-campaign-incrementality) . [Download v1.0.0](https://github.com/sammiclever9/drinking-water-compliance/releases/tag/v1.3.0)
+[Explore the project](https://github.com/sammiclever9/email-campaign-incrementality) . [Download v1.0.0](https://github.com/sammiclever9/email-campaign-incrementality/releases/tag/v1.0.0))
