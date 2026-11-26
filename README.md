@@ -35,6 +35,7 @@ validation.
   including customers who spent zero.
 
 Includes individual 95% confidence intervals, Holm-adjusted
-tests within each outcome, and an editable Power BI dashboard.
+tests within each outcome, an editable Power BI dashboard,
+and a manual GitHub Actions workflow that verifies the exported results.
 
-[Explore the project](https://github.com/sammiclever9/email-campaign-incrementality) . [Download v1.0.0](https://github.com/sammiclever9/email-campaign-incrementality/releases/tag/v1.0.0)
+[Explore the project](https://github.com/sammiclever9/email-campaign-incrementality) . [Download v1.1.0](https://github.com/sammiclever9/email-campaign-incrementality/releases/tag/v1.1.0)
